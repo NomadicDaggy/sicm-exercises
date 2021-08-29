@@ -1,3 +1,4 @@
+#lang sicp
 (define (square a)
     (* a a))
 
